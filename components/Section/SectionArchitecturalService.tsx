@@ -15,7 +15,6 @@ const SectionArchitecturalService = () => {
           trigger: '#arch-service-container',
           start: 'bottom bottom',
           // end: 'bottom center',
-          markers: true,
         },
         x: -200,
         scaleY: 0,
